@@ -1,1 +1,1 @@
-# My-Personal-Site
+# IST-HTML-Project
